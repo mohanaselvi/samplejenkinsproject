@@ -1,4 +1,4 @@
-package InterviewProgramForPractice;
+
 
 public class ArmstrongNumber {
 
