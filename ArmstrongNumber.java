@@ -3,7 +3,7 @@
 public class ArmstrongNumber {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
         int n=555; //sum of cube of each digit should be equal to the number
         int rem=0;
         int sum = 0;
